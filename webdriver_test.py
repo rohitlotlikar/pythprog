@@ -1,3 +1,7 @@
+'''this program prints the current coronavirus cases around india
+and also the daily cases
+'''
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
